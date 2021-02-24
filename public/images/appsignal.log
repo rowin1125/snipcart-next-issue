@@ -1,0 +1,9 @@
+# Logfile created on 2020-11-13 12:30:24 +0000 by logger.rb/66358
+[2020-11-13T12:30:23 (process) #12][INFO] appsignal: Loading Rails (5.2.4.4) integration
+[2020-11-13T12:30:24 (process) #12][ERROR] appsignal: Not loading from config file: config for 'test' not found
+[2020-11-13T12:30:24 (process) #12][ERROR] appsignal: Push API key not set after loading config
+[2020-11-13T12:30:24 (process) #12][ERROR] Not starting, no valid config for this environment
+[2020-11-13T12:30:31 (process) #41][INFO] appsignal: Loading Rails (5.2.4.4) integration
+[2020-11-13T12:30:32 (process) #41][ERROR] appsignal: Not loading from config file: config for 'test' not found
+[2020-11-13T12:30:32 (process) #41][ERROR] appsignal: Push API key not set after loading config
+[2020-11-13T12:30:32 (process) #41][ERROR] Not starting, no valid config for this environment
